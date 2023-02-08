@@ -3,6 +3,8 @@
 
 :fire: :fire: :fire: Subscribe, or else what are you doing? https://www.youtube.com/channel/UCru5FZQN_Xa0tKfrBqUIcng :fire: :fire: :fire:
 
+:notes: Me on Habr: https://habr.com/ru/users/PyLounge/
+
 :notes: Something about my skills:
 
 - :heavy_check_mark: Advanced knowledge: C/C++ (Qt, Boost), Python (Django, Django RESTframework), C#(ASP.NET, Core, WPF).
