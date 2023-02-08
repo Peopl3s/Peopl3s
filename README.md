@@ -4,6 +4,7 @@
 :fire: :fire: :fire: Subscribe, or else what are you doing? https://www.youtube.com/channel/UCru5FZQN_Xa0tKfrBqUIcng :fire: :fire: :fire:
 
 :fire: Me on Habr: https://habr.com/ru/users/PyLounge/
+
 :fire: My second github account: https://github.com/pylounge
 
 :notes: Something about my skills:
