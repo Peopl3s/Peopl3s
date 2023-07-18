@@ -20,12 +20,9 @@
     <img alt="PyLounge Github URL" src="https://img.shields.io/badge/2nd Github acc-black?logo=github&logoColor=white&style=for-the-badge">
 </div>
 
-<div align="center">
+---
 
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peopl3s&theme=solarized_dark"/>
-</div>
-
----
 
 :purple_heart: My name is Maxim Melnikov. I have been doing programming for more than 5 years. And I really love it. 
 
@@ -62,7 +59,7 @@ During this time I managed to try my hand at different areas of development, bec
     <a href="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo" width="40" height="40"/> </a>
     <a href="https://cdn.worldvectorlogo.com/logos/redis.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="40" height="40"/> </a>
   
-- :bookmark: Also interested (perhaps I would like to learn): Ruby, Swift, Elixir.
+- :bookmark: Also interested (perhaps I would like to learn): Ruby, Elixir.
 
 :video_game: Welcome back, stranger :video_game:
 
