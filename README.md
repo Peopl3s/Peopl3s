@@ -52,8 +52,6 @@ During this time I managed to try my hand at different areas of development, bec
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-
 
 
 - :heavy_check_mark: Experience with: Git, Docker (Docker Compose), MySQL, PostgreSQL, MongoDB, Redis, Celery.
@@ -64,7 +62,7 @@ During this time I managed to try my hand at different areas of development, bec
     <a href="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo" width="40" height="40"/> </a>
     <a href="https://cdn.worldvectorlogo.com/logos/redis.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="40" height="40"/> </a>
   
-- :bookmark: Also interested (perhaps I would like to learn): Ruby, Elixir.
+- :bookmark: Also interested (perhaps I would like to learn): Golang, Ruby, Elixir.
 
 :video_game: Welcome back, stranger :video_game:
 
