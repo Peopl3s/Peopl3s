@@ -56,11 +56,11 @@ https://habr.com/ru/articles/670980/
 
 У меня есть педагогический опыт (работал преподавателем в университете), поэтому в перспективе готов заниматься обучением и менторством новых сотрудников, участвовать в процессе онбординга.
 
-:notes: Something about my skills:
+:notes: Мои скиллы:
 
 
 
-- :heavy_check_mark: Уверенное знание: Python, Django, Linux, SQL, C/C++.
+- :heavy_check_mark: Уверенное знание: Python, Django (Django REST Framework), FastAPI, Linux, SQL, C/C++
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
