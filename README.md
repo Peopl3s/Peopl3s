@@ -3,7 +3,7 @@
 
 <h4 align="center">🐍 Python Developer | 📺 YouTube IT blogger</h4>
 <div align="center">
-  <a href="https://disk.yandex.ru/i/soUuWlOih-ubjA">
+  <a href="https://disk.yandex.ru/i/W-kKezkaHolLCw">
     <img aly="My CV URL" src="https://img.shields.io/badge/CV-orange?&style=for-the-badge">
   </a>
   </a>
