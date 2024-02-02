@@ -60,7 +60,7 @@ https://habr.com/ru/articles/670980/
 
 
 
-- :heavy_check_mark: Уверенное знание: Python, Django (Django REST Framework), FastAPI, Linux, SQL, C/C++
+:heavy_check_mark: Уверенное знание: Python, Django (Django REST Framework), FastAPI, Linux, SQL, C/C++
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
@@ -71,23 +71,28 @@ https://habr.com/ru/articles/670980/
   
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark"/>
   
-- :heavy_check_mark: Базовые знания: HTML5/CSS3, JavaScript
+  
+:heavy_check_mark: Базовые знания: HTML5/CSS3, JavaScript
 
-- 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 
-- :heavy_check_mark: Есть опыт с: Git, Docker (Docker Compose), MySQL, PostgreSQL, MongoDB, Redis, Celery, GitLab Runner.
+
+:heavy_check_mark: Есть опыт с: Git, Docker (Docker Compose), MySQL, PostgreSQL, MongoDB, Redis, Celery, GitLab Runner.
   
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
    <a href="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="docker" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo" width="40" height="40"/> </a>
     <a href="https://cdn.worldvectorlogo.com/logos/redis.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="40" height="40"/> </a>
+     <a href="https://cdn.worldvectorlogo.com/logos/redis.svg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" alt="celery" width="40" height="40"/> </a>
+     <a href="https://cdn.worldvectorlogo.com/logos/redis.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="gitlab" width="40" height="40"/> </a>
+
+
   
-- :bookmark: Интересуюсь (хотел бы выучить): Golang, Ruby, Elixir.
+ :bookmark: Интересуюсь (хотел бы выучить): Golang, Ruby, Elixir.
 
 :video_game: Welcome back, stranger :video_game:
 
