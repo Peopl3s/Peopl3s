@@ -30,8 +30,10 @@
 
 :european_castle: Работал преподавателем в государственном университете. Преподавал программирование, базы данных, операционные системы и компьютерные сети. 
 
-:tent: Участвую в Open Source - Контрибьютил в FasAPI (нашёл баг в работе регулярных выражений и исправил):
+:tent: Участвую в Open Source:
+* Контрибьютил в FasAPI (нашёл баг в работе регулярных выражений и исправил):
 https://github.com/tiangolo/fastapi/pull/5057
+* Мой материал про наследование и интерфейсы Golang добавили в официальный курс на Code Basics от Хексле: https://github.com/hexlet-basics/exercises-go/pull/128
 
 :tv: Веду YouTube-канал по программированию на Python (+45К подписчиков):
 https://www.youtube.com/channel/UCru5FZQN_Xa0tKfrBqUIcng
