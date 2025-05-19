@@ -35,7 +35,7 @@
 https://github.com/tiangolo/fastapi/pull/5057
 * Мой материал про наследование и интерфейсы Golang добавили в официальный курс на Code Basics от Хексле: https://github.com/hexlet-basics/exercises-go/pull/128
 
-:tv: Веду YouTube-канал по программированию на Python (+45К подписчиков):
+:tv: Веду YouTube-канал по программированию на Python (+50К подписчиков):
 https://www.youtube.com/channel/UCru5FZQN_Xa0tKfrBqUIcng
 
 :bookmark_tabs: Пишу статьи на Хабр. Некоторые из них:
