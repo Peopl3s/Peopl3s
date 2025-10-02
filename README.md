@@ -1,105 +1,89 @@
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Maxim</a> 
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Maxim</a>  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h4 align="center">🐍 Python Developer | 📺 YouTube IT blogger</h4>
+<h4 align="center">🐍 Lead Backend Python Developer | 📺 Creator of <a href="https://www.youtube.com/@PyLounge">PyLounge</a> | ✍️ Author on <a href="https://habr.com/ru/users/PyLounge/">Habr</a></h4>
+
 <div align="center">
   <a href="https://disk.yandex.ru/i/W-kKezkaHolLCw">
-    <img aly="My CV URL" src="https://img.shields.io/badge/CV-orange?&style=for-the-badge">
+    <img alt="CV" src="https://img.shields.io/badge/CV-orange?style=for-the-badge">
   </a>
+  <a href="https://t.me/melnikovvv">
+    <img alt="Telegram" src="https://img.shields.io/badge/My_tg-0088cc?logo=telegram&logoColor=white&style=for-the-badge">
   </a>
-    <a href="https://t.me/melnikovvv">
-    <img alt="telegram URL" src="https://img.shields.io/badge/My tg-0088cc?logo=telegram&logoColor=white&style=for-the-badge">
-  </a>
-    <a href="https://www.youtube.com/channel/UCru5FZQN_Xa0tKfrBqUIcng">
-    <img alt="PyLounge Youtube-channel URL" src="https://img.shields.io/badge/PyLounge-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
+  <a href="https://www.youtube.com/channel/UCru5FZQN_Xa0tKfrBqUIcng">
+    <img alt="PyLounge YouTube" src="https://img.shields.io/badge/PyLounge-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://habr.com/ru/users/PyLounge/">
-    <img alt="HABR URL" src="https://img.shields.io/badge/PyLounge-619EBB?logo=habr&logoColor=white&style=for-the-badge">
+    <img alt="Habr" src="https://img.shields.io/badge/PyLounge-619EBB?logo=habr&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://github.com/pylounge">
-    <img alt="PyLounge Github URL" src="https://img.shields.io/badge/2nd Github acc-black?logo=github&logoColor=white&style=for-the-badge">
+    <img alt="GitHub" src="https://img.shields.io/badge/2nd_Github_acc-black?logo=github&logoColor=white&style=for-the-badge">
+  </a>
 </div>
 
 ---
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peopl3s&theme=solarized_dark"/>
+### 🎥 YouTube + ✍️ Habr = My Knowledge Engine
 
+I run **[PyLounge](https://www.youtube.com/@PyLounge)** — a Python-focused YouTube channel with **50K+ subscribers** — where I break down backend architecture, career advice, and real-world code.
 
+On **[Habr](https://habr.com/ru/users/PyLounge/)**, I’m a **Author**. My articles consistently rank among the most saved and viewed:
 
-:purple_heart: Занимаюсь программированием более 10 лет и действительно люблю это дело.
+- *“Best Python Projects for Beginners”* — **250K+ views**, **#1 in “Saved”** (2022)
+- *“What I Learned as a Junior Dev”* — **75K+ views**
+- *“Why Python’s OOP Is Flawed”* — **40K+ views**  
 
-:european_castle: Работал преподавателем в государственном университете. Преподавал программирование, базы данных, операционные системы и компьютерные сети. 
+### 🌍 Open Source Contributions
 
-:tent: Участвую в Open Source:
-* Контрибьютил в FasAPI (нашёл баг в работе регулярных выражений и исправил):
-https://github.com/tiangolo/fastapi/pull/5057
-* Мой материал про наследование и интерфейсы Golang добавили в официальный курс на Code Basics от Хексле: https://github.com/hexlet-basics/exercises-go/pull/128
+I contribute to tools I use in production - **FastAPI**, **Litestar**, **dishka**, **Hexlet’s Code Basics**.
 
-:tv: Веду YouTube-канал по программированию на Python (+50К подписчиков):
-https://www.youtube.com/channel/UCru5FZQN_Xa0tKfrBqUIcng
+### 💼 Professional Background
 
-:bookmark_tabs: Пишу статьи на Хабр. Некоторые из них:
-1. Что я понял на первой работе программистом / Мои советы Junior-разработчикам (+65К просмотров): https://habr.com/ru/articles/766868/
-2. Почему в Python плохой ООП (+30К просмотров): https://habr.com/ru/articles/698982/
-2. Лучшие Проекты Для Начинающих Python-Разработчиков (+200К просмотров, статья попала в ТОП публикаций по количеству добавлений в избранное по статистике Хабра 2022):
-https://habr.com/ru/articles/670980/
-4. Спецпроект Хабра "8 каверзных вопросов по С++": https://habr.com/ru/specials/682184/
+- **Lead Backend Python Developer** at **Idaproject** (Samolyot Group) — Russia’s #1 PropTech company  
+- Former university lecturer (Programming, Databases, OS, Networking)  
+- Finalist, National “I am a Professional” Olympiad (Software Engineering)  
+- Active in hackathons (*Digital Breakthrough*, *Tsifra.zone*)
 
-:bowling: Участвовал в Хакатонах "Цифровой прорыв", "Цифра.zone", а также финалист всероссийской Олимпиады Я-Профессионал (направление "Программная инженерия")
+### 🔧 Skills
 
-:surfer:Активно развиваюсь в области backend-разработки и программирования на Python:
+**Proficient in**:  
+Python, FastAPI, Litestar, Django & DRF, PostgreSQL, Linux, SQL, C/C++  
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/></a>
+<a href="https://litestar.dev"><img src="https://litestar.dev/_static/logo.svg" width="40"/></a>
+<a href="https://www.djangoproject.com"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
+<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
+<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" width="40"/></a>
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40"/></a>
 
-● смотрю доклады Podlodka, PyCon, HighLoad (в частности интересуюсь спикерами: Денис Аникин, Никита Соболев, Алексей Смирнов);
+**Familiar with**:  
+HTML5, CSS3, JavaScript, React, Vue
 
-● Недавно прочитанные книги:
-1) Asyncio и конкурентное программирование на Python / Мэттью Фаулер
-2) Проектирование веб-API / Арно Лоре
-3) Паттерны разработки на Python: TDD, DDD и событийно-ориентированная архитектура / Гарри Персиваль.
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+<a href="https://reactjs.org"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40"/></a>
+<a href="https://vuejs.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png?20170919082558" width="40"/></a>
 
-● Улучшаю навыки владения английским языком (на данный момент уровень В1)
+**Experienced with**:  
+Git, Docker (Compose), MySQL, MongoDB, Redis, Celery, GitLab CI/CD, Kafka
 
-:eyeglasses: Образование: 09.03.01 Информатика и вычислительная техника (бакалавриат), 44.04.04 Профессиональное обучение (бизнес-информатика, магистратура), 2.3.1. Системный анализ, управление и обработка информации (аспирантура)
+<a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40"/></a>
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="40"/></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="40"/></a>
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="40"/></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/308px-Apache_Kafka_logo.svg.png?20210416085520" width="40"/></a>
 
-:notes: Мои скиллы:
+### 🎓 Education
+- BSc in Computer Science  
+- MSc in Professional Education (Business Informatics)  
+- PhD Candidate in Systems Analysis & Information Processing
 
+### 🌍 English: B1 (actively improving)
 
+---
 
-:heavy_check_mark: Уверенное знание: Python, Django (Django REST Framework), FastAPI, Linux, SQL, C/C++
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://fastapi.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" alt="sql" width="40" height="40"/> </a>
-  <a href="https://cdn.worldvectorlogo.com/logos/c.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/> </a>
-  
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark"/>
-  
-  
-:heavy_check_mark: Базовые знания: HTML5/CSS3, JavaScript, React
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="javascript" width="40" height="40"/> </a>
-
-
-
-  :heavy_check_mark: Есть опыт с: Git, Docker (Docker Compose), MySQL, PostgreSQL, MongoDB, Redis, Celery, GitLab CI/CD.
-  
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-   <a href="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="docker" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo" width="40" height="40"/> </a>
-    <a href="https://cdn.worldvectorlogo.com/logos/redis.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="40" height="40"/> </a>
-     <a href="https://cdn.worldvectorlogo.com/logos/redis.svg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" alt="celery" width="40" height="40"/> </a>
-     <a href="https://cdn.worldvectorlogo.com/logos/redis.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="gitlab" width="40" height="40"/> </a>
-
-
-  
- :bookmark: Интересуюсь (хотел бы выучить): Golang, Ruby, Elixir.
-
-:video_game: Welcome back, stranger :video_game:
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peopl3s&theme=solarized_dark"/>
+Welcome back, stranger! 🎮
