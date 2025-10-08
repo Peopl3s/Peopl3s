@@ -25,7 +25,7 @@
 
 ### 🎥 YouTube + ✍️ Habr = My Knowledge Engine
 
-I run **[PyLounge](https://www.youtube.com/@PyLounge)** — a Python-focused YouTube channel with **50K+ subscribers** — where I break down backend architecture, career advice, and real-world code.
+I run **[PyLounge](https://www.youtube.com/@PyLounge)** — a Python-focused YouTube channel with **50K+ subscribers** — where I break down backend, python, career advice, and real-world code.
 
 On **[Habr](https://habr.com/ru/users/PyLounge/)**, I’m a **Author**. My articles consistently rank among the most saved and viewed:
 
@@ -36,14 +36,14 @@ On **[Habr](https://habr.com/ru/users/PyLounge/)**, I’m a **Author**. My artic
 
 ### 🌍 Open Source Contributions
 
-I contribute to tools I use in production - [**FastAPI**](https://github.com/fastapi/fastapi/pull/5057), [**Litestar**](https://github.com/litestar-org/litestar/releases/tag/v2.18.0), [**dishka**](https://github.com/reagento/dishka/releases/tag/1.6.0), [**Hexlet’s Code Basics**](https://github.com/hexlet-basics/exercises-go/pull/128).
+I contribute to tools I use - [**FastAPI**](https://github.com/fastapi/fastapi/pull/5057), [**Litestar**](https://github.com/litestar-org/litestar/releases/tag/v2.18.0), [**dishka**](https://github.com/reagento/dishka/releases/tag/1.6.0), [**Hexlet’s Code Basics**](https://github.com/hexlet-basics/exercises-go/pull/128).
 
 ### 💼 Professional Background
 
-- **Lead Backend Python Developer** at **Idaproject** (Samolet Group) — Russia’s #1 PropTech company  
+- **Lead Backend Python Developer** at **Idaproject** ([Samolet Group](https://samolet.ru/)) — Russia’s #1 PropTech company  
 - Former university lecturer (Programming, Databases, OS, Networking) - [Bunin Yelets State University](https://elsu.ru/)
-- Finalist, National “I am a Professional” Olympiad (Software Engineering)  
-- Active in hackathons (*Digital Breakthrough*, *Tsifra.zone*)
+- Finalist, National [“I am a Professional” Yandex Olympiad (Software Engineering)](https://yandex.ru/profi)
+- Active in hackathons ([*Digital Breakthrough*](https://www.xn--80aa3anexr8c.xn--p1acf/tpost/zdpfixa7r1-mezhdunarodnii-hakaton-tsifrovoi-proriv), [*Tsifra.zone*](https://www.xn--80aa3anexr8c.xn--p1acf/tpost/nr0tc3yir1-hakaton-tsifrazonetehnologicheskaya-mode))
 
 ### 🔧 Skills
 
@@ -86,9 +86,7 @@ Git, Docker (Compose), MySQL, MongoDB, Redis, Celery, GitLab CI/CD, Kafka, Kuber
 ### 🎓 Education
 - BSc in Computer Science  
 - MSc in Professional Education (Business Informatics)  
-- PhD Candidate in Systems Analysis & Information Processing
-
-### 🌍 English: B1 (actively improving)
+- PhD Candidate in Systems Analysis & Information Processing (in progress)
 
 ---
 
