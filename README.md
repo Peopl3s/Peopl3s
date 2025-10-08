@@ -88,6 +88,13 @@ Git, Docker (Compose), MySQL, MongoDB, Redis, Celery, GitLab CI/CD, Kafka, Kuber
 - MSc in Professional Education (Business Informatics)  
 - PhD Candidate in Systems Analysis & Information Processing (in progress)
 
+:surfer: I'm actively developing my expertise in backend development and Python programming:
+- I regularly watch talks from Podlodka, PyCon, and HighLoad conferences, with particular interest in speakers such as Denis Anikin, Nikita Sobolev, and Alexey Smirnov.
+- I'm an avid reader of technical books. Recently read titles include:
+  * "Python Concurrency with asyncio" is a book by Matthew Fowler
+  * "The Design of Web APIs" by Arnaud Lauret
+  * Architecture Patterns with Python: Enabling Testability, Maintainability, and Loose Coupling by Harry Percival (covers TDD, DDD, and event-driven architecture)
+
 ---
 
 Welcome back, stranger! 🎮
