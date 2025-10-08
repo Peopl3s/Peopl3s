@@ -4,7 +4,7 @@
 <h4 align="center">🐍 Lead Backend Python Developer | 📺 Creator of <a href="https://www.youtube.com/@PyLounge">PyLounge</a> | ✍️ Author on <a href="https://habr.com/ru/users/PyLounge/">Habr</a></h4>
 
 <div align="center">
-  <a href="https://disk.yandex.ru/i/W-kKezkaHolLCw">
+  <a href="">
     <img alt="CV" src="https://img.shields.io/badge/CV-orange?style=for-the-badge">
   </a>
   <a href="https://t.me/melnikovvv">
@@ -29,18 +29,19 @@ I run **[PyLounge](https://www.youtube.com/@PyLounge)** — a Python-focused You
 
 On **[Habr](https://habr.com/ru/users/PyLounge/)**, I’m a **Author**. My articles consistently rank among the most saved and viewed:
 
-- *“Best Python Projects for Beginners”* — **250K+ views**, **#1 in “Saved”** (2022)
-- *“What I Learned as a Junior Dev”* — **75K+ views**
-- *“Why Python’s OOP Is Flawed”* — **40K+ views**  
+- [*“Best Python Projects for Beginners”*](https://habr.com/ru/articles/670980/) — **250K+ views**, **#1 in “Saved”** (2022)
+- [*“What I Learned as a Junior Dev”*](https://habr.com/ru/articles/766868/) — **75K+ views**
+- [*“Why Python’s OOP Is Flawed”*](https://habr.com/ru/articles/698982/) — **40K+ views**
+- [*"Habr's special project "8 tricky C++ questions"*](https://habr.com/ru/specials/682184/)
 
 ### 🌍 Open Source Contributions
 
-I contribute to tools I use in production - **FastAPI**, **Litestar**, **dishka**, **Hexlet’s Code Basics**.
+I contribute to tools I use in production - [**FastAPI**](https://github.com/fastapi/fastapi/pull/5057), [**Litestar**](https://github.com/litestar-org/litestar/releases/tag/v2.18.0), [**dishka**](https://github.com/reagento/dishka/releases/tag/1.6.0), [**Hexlet’s Code Basics**](https://github.com/hexlet-basics/exercises-go/pull/128).
 
 ### 💼 Professional Background
 
-- **Lead Backend Python Developer** at **Idaproject** (Samolyot Group) — Russia’s #1 PropTech company  
-- Former university lecturer (Programming, Databases, OS, Networking)  
+- **Lead Backend Python Developer** at **Idaproject** (Samolet Group) — Russia’s #1 PropTech company  
+- Former university lecturer (Programming, Databases, OS, Networking) - [Bunin Yelets State University](https://elsu.ru/)
 - Finalist, National “I am a Professional” Olympiad (Software Engineering)  
 - Active in hackathons (*Digital Breakthrough*, *Tsifra.zone*)
 
@@ -67,7 +68,7 @@ HTML5, CSS3, JavaScript, React, Vue
 <a href="https://vuejs.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png?20170919082558" width="40"/></a>
 
 **Experienced with**:  
-Git, Docker (Compose), MySQL, MongoDB, Redis, Celery, GitLab CI/CD, Kafka
+Git, Docker (Compose), MySQL, MongoDB, Redis, Celery, GitLab CI/CD, Kafka, Kubernetes, Prometheus, ELK, Grafana, Terraform
 
 <a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
 <a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
@@ -76,6 +77,11 @@ Git, Docker (Compose), MySQL, MongoDB, Redis, Celery, GitLab CI/CD, Kafka
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="40"/></a>
 <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="40"/></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/308px-Apache_Kafka_logo.svg.png?20210416085520" width="40"/></a>
+<a href="#"><img src="https://cdn.simpleicons.org/kubernetes" width="40" alt="Kubernetes"/></a>
+<a href="#"><img src="https://cdn.simpleicons.org/prometheus" width="40" alt="Prometheus"/></a>
+<a href="#"><img src="https://cdn.simpleicons.org/elastic" width="40" alt="Elastic (ELK)"/></a>
+<a href="#"><img src="https://cdn.simpleicons.org/grafana" width="40" alt="Grafana"/></a>
+<a href="#"><img src="https://cdn.simpleicons.org/terraform" width="40" alt="Terraform"/></a>
 
 ### 🎓 Education
 - BSc in Computer Science  
