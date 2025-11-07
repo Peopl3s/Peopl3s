@@ -39,7 +39,7 @@ On **[Habr](https://habr.com/ru/users/PyLounge/)**, I’m a **Author**. My artic
 
 ### 🌍 Open Source Contributions
 
-I contribute to tools I use - [**FastAPI**](https://github.com/fastapi/fastapi/pull/5057), [**Litestar**](https://github.com/litestar-org/litestar/releases/tag/v2.18.0), [**dishka**](https://github.com/reagento/dishka/releases/tag/1.6.0), [**Hexlet’s Code Basics**](https://github.com/hexlet-basics/exercises-go/pull/128).
+I contribute to tools I use - [**FastAPI**](https://github.com/fastapi/fastapi/pull/5057), [**Litestar**](https://github.com/litestar-org/litestar/releases/tag/v2.18.0), [**dishka**](https://github.com/reagento/dishka/releases/tag/1.6.0), [**Hexlet’s Code Basics**](https://github.com/hexlet-basics/exercises-go/pull/128) and ets.
 
 ### 💼 Professional Background
 
